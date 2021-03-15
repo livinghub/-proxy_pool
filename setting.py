@@ -60,6 +60,7 @@ PROXY_FETCHER = [
 
 # ############# proxy validator #################
 VERIFY_URL = "http://www.baidu.com"
+#VERIFY_URL = "http://77m.live/portal.php?x=829270"
 
 # 代理验证时超时时间
 VERIFY_TIMEOUT = 10
